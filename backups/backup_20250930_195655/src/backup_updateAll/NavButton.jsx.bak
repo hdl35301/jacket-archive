@@ -1,0 +1,16 @@
+// src/components/NavButton.jsx
+import React from "react";
+import { useNavigate } from "react-router-dom";
+
+export default function NavButton({ to, label }) {
+  const navigate = useNavigate();
+  return (
+    <button
+      onClick={() => navigate(to)}
+      type="button"
+      className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+    >
+      {label}
+    </button>
+  );
+}
