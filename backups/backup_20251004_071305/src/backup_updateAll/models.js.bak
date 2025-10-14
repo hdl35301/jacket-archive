@@ -1,6 +1,0 @@
-
-export const models = [
-  { id: 1, name: "Buco J-24", brandId: 1, makerId: 1, year: "1950s", style: "ダブルライダース" },
-  { id: 2, name: "Trojan 619", brandId: 2, makerId: 2, year: "1940s", style: "シングルライダース" },
-  { id: 3, name: "Sears Hercules", brandId: 3, makerId: 3, year: "1930s", style: "ダブルライダース" }
-];
