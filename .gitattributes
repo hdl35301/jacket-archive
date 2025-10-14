@@ -1,0 +1,3 @@
+*.jsx text eol=lf diff
+*.js  text eol=lf diff
+*.bat text eol=crlf

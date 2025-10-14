@@ -1,0 +1,7 @@
+test-router-app@0.0.0 C:\Users\hdl35\jacket-archive
++-- @tailwindcss/postcss@4.1.14
+| +-- @tailwindcss/node@4.1.14
+| | `-- tailwindcss@4.1.14
+| `-- tailwindcss@4.1.14
+`-- tailwindcss@3.4.13
+
