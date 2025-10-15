@@ -43,7 +43,3 @@ export default function App() {
 // [verify] diff apply
 // [verify] diff apply
 // [verify] diff apply
-// [verify] diff apply
-// [verify] diff apply
-// [verify] diff apply
-// [verify] diff apply

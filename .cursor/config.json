@@ -1,0 +1,8 @@
+{
+    "diffPlanPath": "diff_plan.md",
+    "outputDiffPath": "scripts/diffs/test.diff",
+    "autoCommit": true,
+    "autoPush": false,
+    "runPostCommand": "cmd /c update_code_only.bat"
+  }
+  
